@@ -5,14 +5,6 @@
 </head>
 <body>
 <textarea id="textArea" cols="35" rows="6"readonly="readonly">
-Nombre: Maria Santelices Tagle
-Rut: 18.935.895-4
-Tipo Cuenta: Cuenta Vista
-Número de cuenta: 0 070 58 40020 8
-Banco Santander
-Email: holasantecl@gmail.com
-</textarea>
-<button onclick="copyToClipBoard()">Copy</button>
 
 <script src="link to your JS file"></script>
 </body>
